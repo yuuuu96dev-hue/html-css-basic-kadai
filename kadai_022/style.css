@@ -90,6 +90,6 @@ footer > a:hover {
   }
 
   #parent {
-    display: flex;
+    display: inline-block;
   }
 }
